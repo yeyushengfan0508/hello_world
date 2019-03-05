@@ -2,4 +2,7 @@
 My First Repository
 
 follow the guide and try to add sth.
-today is 8.13, it might be a nice day
+Today is 8.13, it might be a nice day
+
+2019.3.5
+Start to use Github again.
